@@ -1,6 +1,6 @@
 # teaching rigid body dynamics workshop
 
-
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=kroblet/rigid-body-dynamics)
 
 ## Getting started
 
